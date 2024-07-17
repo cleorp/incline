@@ -1,4 +1,4 @@
-<img src="logo.jpg" />
+<div align="center"><img src="logo.png" /></div>
 
 # Incline - AI Fitness Tracker and Fitness Expert that works!
 
